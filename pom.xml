@@ -86,7 +86,7 @@
         <configuration>
           <archive>
             <manifest>
-              <addClasspath>true</addClasspath>
+              <!--<addClasspath>true</addClasspath>-->
               <mainClass>com.diskun.App</mainClass>
             </manifest>
           </archive>
